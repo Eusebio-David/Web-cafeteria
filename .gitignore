@@ -1,0 +1,5 @@
+# Ignorar archivos de base de datos SQLite3
+*db.sqlite3
+
+# Ignorar el directorio del entorno virtual venv
+venv/
